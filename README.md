@@ -103,7 +103,7 @@ errand-route-optimizer/
 
 ## Course
 
-IS 4300: Human-Computer Interaction — Northeastern University, Spring 2026
+CS 5170: Human-Computer Interaction — Northeastern University, Spring 2026
 
 ## Author
 
