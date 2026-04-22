@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useCallback, useMemo } from "react";
 
-const GKEY = "AIzaSyCC-I8Wxzg0dTsATcEb2F_R34r2c0I8fGw";
+const GKEY = "#####################";
 
 /* ================================================================
    UTILS
